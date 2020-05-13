@@ -1,2 +1,2 @@
 # read
-gitbub page for book
+gitbub page for bookxc
